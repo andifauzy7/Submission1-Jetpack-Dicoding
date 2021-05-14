@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="show">TV Show</string>
+    <string name="movies_title">Movies Title</string>
+    <string name="movies_category">Movies Category</string>
+    <string name="show_title">Show Title</string>
+    <string name="show_category">Show Category</string>
+    <string name="judul">Judul</string>
+    <string name="content_title">Content Title</string>
+    <string name="rating">Rating</string>
+    <string name="number_rating">Number Rating</string>
+    <string name="category">Category</string>
+    <string name="category_content">Category Content</string>
+    <string name="overview">Overview</string>
+    <string name="textview">TextView</string>
+</resources>
